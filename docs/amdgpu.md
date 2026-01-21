@@ -3,7 +3,7 @@ https://github.com/Zerschranzer/arch-gaming-setup
 # package
 additional package
 ```
-corectrl mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader
+mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader
 ```
 # general package
 
